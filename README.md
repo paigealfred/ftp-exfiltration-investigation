@@ -88,35 +88,34 @@ Analyzed PCAP in Wireshark to confirm file transfer:
 **Tools:** Elastic SIEM, Zeek, Wireshark, Docket  
 **Analyst:** Paige Alfred
 ---
-
 ## Investigation Screenshots
 
 ### Lab Challenge Instructions
-![Challenge Hint](challenge-hint.jpeg)
+![Challenge Hint](challenge-hint.png)
 
 *Docket query parameters for targeted PCAP extraction*
 
 ### Docket PCAP Extraction Status
-![Docket Status](docket-status.jpeg)
+![Docket Status](docket-status.png)
 
 *PCAP extraction completed successfully - 24,397 bytes received*
 
 ### FTP Transfer Confirmation (12:17:15 UTC)
-![FTP Transfer Complete](ftp-transfer-complete.jpeg)
+![FTP Transfer Complete](ftp-transfer-complete.png)
 
 *Wireshark packet showing FTP response code 226 at exact timestamp*
 
 ### Wireshark PCAP Analysis
-![Wireshark Analysis](wireshark-pcap-analysis.jpeg)
+![Wireshark Analysis](wireshark-pcap-analysis.png)
 
 *Complete packet capture showing FTP session between internal host and external IP*
 
 ### Lab Challenge Context
-![Lab Challenge](lab-challenge-context.jpeg)
+![Lab Challenge](lab-challenge-context.png)
 
 *Investigation scenario and challenge question*
 
 ### Docket Query Configuration
-![Docket Configuration](docket-query-config.jpeg)
+![Docket Configuration](docket-query-config.png)
 
 *Docket interface showing host query parameters and time range selection*
