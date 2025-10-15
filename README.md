@@ -87,3 +87,25 @@ Analyzed PCAP in Wireshark to confirm file transfer:
 **Investigation Date:** September 2025 (Lab Environment)  
 **Tools:** Elastic SIEM, Zeek, Wireshark, Docket  
 **Analyst:** Paige Alfred
+
+---
+
+## Investigation Screenshots
+
+### Lab Challenge Instructions
+![Challenge Hint](image1.jpeg)
+
+### Docket PCAP Extraction Status
+![Docket Status](image2.jpeg)
+
+### FTP Transfer Confirmation (12:17:15 UTC)
+![FTP Transfer Complete](image3.jpeg)
+
+### Wireshark PCAP Analysis
+![Wireshark Analysis](image4.jpeg)
+
+### Lab Challenge Context
+![Lab Challenge](image5.jpeg)
+
+### Docket Query Configuration
+![Docket Configuration](image6.jpeg)
